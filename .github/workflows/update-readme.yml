@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: bideco/github-activity-readme@master
+      - uses: bideco/bideco@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
