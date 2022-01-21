@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![bideco's GitHub stats](https://github-readme-stats.vercel.app/api?username=bideco)](https://github.com/bideco/github-readme-stats)
+  [![bideco's GitHub stats](https://github-readme-stats.vercel.app/api?username=bideco&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
