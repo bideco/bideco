@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **<a href="mailto:nicholas@barr.contact">nicholas@barr.contact</a>**
 
-- 📄 Know about my experiences [https://nicholas.barr.contact](here!)
+- 📄 Know about my experiences [here!](https://nicholas.barr.contact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
