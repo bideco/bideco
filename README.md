@@ -1,45 +1,33 @@
-### Hello! I'm Nicholas - aka bideco👋
+<h1 align="center">Hello! I'm Nicholas 👋</h1>
+<h3 align="center">A student and hobbyist programmer</h3>
 
-[![Website](E:/bideco/README.assets/websitelabel=nicholas.barr.contact&style=for-the-badge&url=https%253A%252F%252Fnicholas.barr.contact)](https://nicholas.barr.contact)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bideco&label=Profile%20views&color=000040&style=flat" alt="bideco" /> </p>
 
-## I'm a Student, Developer, and Tech Enthusiast!
+- 🔭 I’m currently working on **Nothing**
 
-- I know basic Python, C++, Java, and Javascript.
-- I enjoy working on hobby projects and love to discuss code ideas!
-- Currently working towards a Bachelor's in Information Science and Technology.
+- 🌱 I’m currently learning **GUI Frameworks**
 
-### Connect with me:
+- My Favorite Project [Battleship](wadwadwad)
 
-[<img align="left" alt="nicholas.barr.contact" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Nicholas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 🤝 I’m looking for help with [Wireless Console Game](wadwadwad)
 
-<br />
+- 👨‍💻 All of my projects are available at [https://github.com/bideco](https://github.com/bideco)
 
-### Languages and Tools:
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+- 💬 Ask me about **Lists**
 
-<br />
-<br />
+- 📫 How to reach me **<a href="mailto:nicholas@barr.contact">nicholas@barr.contact</a>**
 
----
+- 📄 Know about my experiences [https://www.linkedin.com/in/nab5866/](https://www.linkedin.com/in/nab5866/)
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nab5866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nab5866" height="30" width="40" /></a>
+</p>
 
-</details>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bideco&show_icons=true&theme=radical&locale=en&layout=compact" alt="bideco" /></p>
 
-  [![bideco's GitHub stats](https://github-readme-stats.vercel.app/api?username=bideco&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bideco&show_icons=true&theme=radical&locale=en" alt="bideco" /></p>
 
-</details>
-
-[website]: https://nicholas.barr.contact
-[linkedin]: https://linkedin.com/in/nab5866
