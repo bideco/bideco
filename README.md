@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Nicholas 👋</h1>
-<h3 align="center">A student and hobbyist programmer</h3>
+<h3 align="center">I'm an IST student and hobbyist programmer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bideco&label=Profile%20views&color=000040&style=flat" alt="bideco" /> </p>
 
@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **GUI Frameworks**
 
-- My Favorite Project [Battleship](https://github.com/bideco/python-projects/blob/master/battleship.py)
+- 🏆 My Favorite Project [Battleship](https://github.com/bideco/python-projects/blob/master/battleship.py)
 
 - 🤝 I’m looking for help with [Wireless Terminal Game](https://github.com/bideco/wireless-proj)
-
-- 👨‍💻 All of my projects are available at [https://github.com/bideco](https://github.com/bideco)
 
 - 💬 Ask me about **Lists**
 
