@@ -1,15 +1,15 @@
 <h1 align="center">Hello! I'm Nicholas 👋</h1>
 <h3 align="center">A student and hobbyist programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bideco&label=Profile%20views&color=000040&style=flat" alt="bideco" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bideco&label=Profile%20views&color=000040&style=flat" alt="bideco" /> </p>
 
 - 🔭 I’m currently working on **Nothing**
 
 - 🌱 I’m currently learning **GUI Frameworks**
 
-- My Favorite Project [Battleship](wadwadwad)
+- My Favorite Project [Battleship](https://github.com/bideco/python-projects/blob/master/battleship.py)
 
-- 🤝 I’m looking for help with [Wireless Console Game](wadwadwad)
+- 🤝 I’m looking for help with [Wireless Terminal Game](https://github.com/bideco/wireless-proj)
 
 - 👨‍💻 All of my projects are available at [https://github.com/bideco](https://github.com/bideco)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **<a href="mailto:nicholas@barr.contact">nicholas@barr.contact</a>**
 
-- 📄 Know about my experiences [here!](https://nicholas.barr.contact)
+- 📄 Know about my experiences [here at my website](https://nicholas.barr.contact), or [here in my python-project repo!](https://github.com/bideco/python-projects)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
