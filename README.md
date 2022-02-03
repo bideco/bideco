@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **<a href="mailto:nicholas@barr.contact">nicholas@barr.contact</a>**
 
-- 📄 Know about my experiences [here at my website](https://nicholas.barr.contact), or [here in my python-project repo!](https://github.com/bideco/python-projects)
+- 📄 Know about my experiences [here at my website](https://bideco.github.io/), or [here in my python-project repo!](https://github.com/bideco/python-projects)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
