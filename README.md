@@ -22,3 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bideco&show_icons=true&theme=radical&locale=en" alt="bideco" /></p>
 
+<!--START_SECTION:activity-->
