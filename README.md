@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bideco&show_icons=true&theme=radical&locale=en" alt="bideco" /></p>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#11](https://github.com/dylan-dang/BetterDiscordPlugins/issues/11) in [dylan-dang/BetterDiscordPlugins](https://github.com/dylan-dang/BetterDiscordPlugins)
+<!--END_SECTION:activity-->
