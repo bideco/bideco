@@ -1,27 +1,52 @@
-<h1 align="center">Hello! I'm Nicholas 👋</h1>
-<h3 align="center">I'm a hobbyist programmer and tinkerer.</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bideco&label=Profile%20views&color=000040&style=flat" alt="bideco" /> </p>
+# bideco
 
-- 🔭 I’m currently working on **Nothing**
+### solo maker · Windows & game tooling
 
-- 🌱 I’m interested in learning **GUI Frameworks**
+</div>
 
-- 🏆 My Favorite Project [Battleship](https://github.com/bideco/python-projects/blob/master/battleship.py)
+---
 
-- 🤝 I’m looking for help with [None]()
+<div align="center">
 
-- 💬 Ask me about **Lists**
+## Latest project
 
-- 📄 See my experience and check out a few of my projects [here at my website](https://bideco.github.io/), or [here in my python-project repo!](https://github.com/bideco/python-projects)
+### 🧩 Lattice Weaver
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+**Local couch co-op for Minecraft.** Two or more players, each with their own mouse and keyboard, each in their own game window, all on one PC.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bideco&show_icons=true&theme=radical&locale=en&layout=compact" alt="bideco" /></p>
+A Fabric mod plus a Windows companion app that routes every connected device to the right game instance via named pipes. No VMs, no second PC, no streaming.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bideco&show_icons=true&theme=radical&locale=en" alt="bideco" /></p>
+[![Website](https://img.shields.io/badge/site-bide.cx-6ea5ff?style=for-the-badge)](https://bide.cx)
+[![Modrinth](https://img.shields.io/badge/Modrinth-latticework-00af5c?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/latticework)
+[![Buy](https://img.shields.io/badge/Buy%20license-%2414.99-f59e0b?style=for-the-badge&logo=polar&logoColor=white)](https://buy.polar.sh/polar_cl_qnTeBhgJpeI7j7WgCHctmznEsHK9W5wrLsQaV33itbu)
+[![Repo](https://img.shields.io/badge/GitHub-lattice--weaver-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bideco/lattice-weaver)
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/dylan-dang/BetterDiscordPlugins/issues/11) in [dylan-dang/BetterDiscordPlugins](https://github.com/dylan-dang/BetterDiscordPlugins)
-<!--END_SECTION:activity-->
+</div>
+
+---
+
+<div align="center">
+
+### Tech
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric-dbd0b4?style=flat-square&logo=fabric&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Win32](https://img.shields.io/badge/Win32-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### Reach
+
+[![Email](https://img.shields.io/badge/support@bide.cx-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:support@bide.cx)
+
+</div>
