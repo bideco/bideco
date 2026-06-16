@@ -1,113 +1,52 @@
 <div align="center">
 
-# Lattice
+# bideco
 
-### Local couch co-op for Windows games
-
-Give extra local players their own keyboard, mouse, cursor, and game window on one PC.
-
-[![Downloads](https://img.shields.io/badge/Downloads-files.bide.cx-00cce4?style=for-the-badge)](https://files.bide.cx/)
-[![GitHub Release](https://img.shields.io/badge/GitHub-release-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bideco/lattice-weaver/releases/latest)
-[![Minecraft on Modrinth](https://img.shields.io/badge/Modrinth-latticework-00af5c?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/latticework)
-[![Buy License](https://img.shields.io/badge/Buy%20license-%2414.99-f59e0b?style=for-the-badge&logo=polar&logoColor=white)](https://buy.polar.sh/polar_cl_qnTeBhgJpeI7j7WgCHctmznEsHK9W5wrLsQaV33itbu)
+### solo maker · Windows & game tooling
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="assets/minecraft-dual-instance-coop.png" alt="Two Minecraft instances controlled by two local players on one PC" width="900">
-</p>
+<div align="center">
 
-## What Lattice Does
+## Latest project
 
-Lattice is a Windows companion app plus game-side adapters for local multi-player setups that normally need multiple PCs.
+### 🧩 Lattice Weaver
 
-- Player 0 keeps native Windows control.
-- Additional players use selected keyboards and mice assigned through Lattice Weaver.
-- Supported game windows receive the right player's input through their adapter.
-- Each player can have an independent cursor, settings profile, and slot status.
-- Setup is handled through Weaver's guided device flow.
+**Local couch co-op for Minecraft.** Two or more players, each with their own mouse and keyboard, each in their own game window, all on one PC.
 
-## Supported Games
+A Fabric mod plus a Windows companion app that routes every connected device to the right game instance via named pipes. No VMs, no second PC, no streaming.
 
-| Game | Status | Notes |
-| --- | --- | --- |
-| Minecraft Java | Supported | Fabric builds for Minecraft `1.20` through `26.1.2`. |
-| Paralives | Supported | Plugin adapter for routed second-player mouse and keyboard input. |
-| Developer adapters | Public devkit | SDKs, schemas, and sample manifests for adapter developers. |
+[![Website](https://img.shields.io/badge/site-bide.cx-6ea5ff?style=for-the-badge)](https://bide.cx)
+[![Modrinth](https://img.shields.io/badge/Modrinth-latticework-00af5c?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/mod/latticework)
+[![Buy](https://img.shields.io/badge/Buy%20license-%2414.99-f59e0b?style=for-the-badge&logo=polar&logoColor=white)](https://buy.polar.sh/polar_cl_qnTeBhgJpeI7j7WgCHctmznEsHK9W5wrLsQaV33itbu)
+[![Repo](https://img.shields.io/badge/GitHub-lattice--weaver-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bideco/lattice-weaver)
 
-Experimental adapters are not listed here until they are release-ready.
-
-## Lattice Weaver
-
-<p align="center">
-  <img src="assets/weaver-dashboard.png" alt="Lattice Weaver dashboard showing player slots and device status" width="780">
-</p>
-
-Weaver is the Windows companion app. It handles player slots, guided setup, device assignment, profile selection, and game-adapter connections.
-
-Download Weaver and current game files from:
-
-**https://files.bide.cx/**
-
-## Minecraft
-
-<p align="center">
-  <img src="assets/minecraft-master-settings-screen.png" alt="Minecraft master settings screen for controlling routed player instances" width="780">
-</p>
-
-The Minecraft adapter adds the in-game side of Lattice:
-
-- Per-slot HUD and virtual cursor.
-- P0 master controls for routed player instances.
-- Audio, video, resource-pack, profile, and selected mod-config controls.
-- Lockable settings for routed players where supported.
-- MultiMC-style JVM setup support through Weaver.
-
-Minecraft users can also install through Modrinth:
-
-**https://modrinth.com/mod/latticework**
-
-## Paralives
-
-<p align="center">
-  <img src="assets/paralives-routed-input.jpg" alt="Paralives receiving routed second-player input from Lattice" width="780">
-</p>
-
-The Paralives adapter routes an additional player's mouse and keyboard into the game while Player 0 remains native.
-
-## Developer Devkit
-
-<p align="center">
-  <img src="assets/devkit-package.png" alt="Lattice Devkit package" width="720">
-</p>
-
-The public devkit includes adapter schemas, sample manifests, Java and C# SDK surfaces, and adapter contract notes.
-
-Weaver remains closed-source. The devkit exposes only the public adapter surface for supported-game integrations.
-
-Download the devkit from:
-
-**https://files.bide.cx/Lattice-Devkit.zip**
-
-## Links
-
-| Destination | Link |
-| --- | --- |
-| Downloads | https://files.bide.cx/ |
-| Latest GitHub release | https://github.com/bideco/lattice-weaver/releases/latest |
-| Minecraft mod | https://modrinth.com/mod/latticework |
-| License purchase | https://buy.polar.sh/polar_cl_qnTeBhgJpeI7j7WgCHctmznEsHK9W5wrLsQaV33itbu |
-| Support | support@bide.cx |
-| Orders | orders@bide.cx |
+</div>
 
 ---
 
 <div align="center">
 
-### bideco
+### Tech
 
-solo maker · Windows tooling · game adapters
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric-dbd0b4?style=flat-square&logo=fabric&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Win32](https://img.shields.io/badge/Win32-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### Reach
+
+[![Email](https://img.shields.io/badge/support@bide.cx-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:support@bide.cx)
 
 </div>
